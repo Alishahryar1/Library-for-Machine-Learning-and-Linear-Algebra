@@ -6,7 +6,7 @@ This repository contains a simple machine learning library with a collection of 
 I've developed a quick and dirty handwriting recognition algorithm using this machine learning library and using the MNIST handwritten digits database. The code for this can be found under src/demo/handwriting_recognition. Here are a couple of screenshots:
 
 <p align="center">
-<img src="https://github.com/Alishahryar1/Library-for-Machine-Learning-and-Linear-Algebra/blob/master/src/demo/handwriting_recognition/screenshots/digit7.png?raw=true" alt="Digit 7 Prediction" width="50%" height="50%"/>
+<img src="https://github.com/Alishahryar1/Library-for-Machine-Learning-and-Linear-Algebra/blob/main/src/demo/handwriting_recognition/screenshots/digit7.png" alt="Digit 7 Prediction" width="50%" height="50%"/>
 </p>
 
 <p align="center">

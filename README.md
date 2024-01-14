@@ -10,7 +10,7 @@ I've developed a quick and dirty handwriting recognition algorithm using this ma
 </p>
 
 <p align="center">
-<img src="https://github.com/Alishahryar1/Library-for-Machine-Learning-and-Linear-Algebra/blob/master/src/demo/handwriting_recognition/screenshots/digit4.png?raw=true" alt="Digit 4 Prediction" width="50%" height="50%"/>
+<img src="https://github.com/Alishahryar1/Library-for-Machine-Learning-and-Linear-Algebra/blob/main/src/demo/handwriting_recognition/screenshots/digit4.png" alt="Digit 4 Prediction" width="50%" height="50%"/>
 </p>
 <p>
 The algorithm teaches itself the various hand-written digits using the included MNIST database of handwritten digits and then tries to predict a test set. You can start the process by clicking "Learn" (it'll take a while) and then using the "Next" button to scroll through the images included in the MNIST database and see the actual value of those digits (under the label "Actual") and what the algorithm thinks the digit is (under the label "Predicted").
